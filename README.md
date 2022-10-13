@@ -1,4 +1,5 @@
 ## 👩🏻‍💻             I'm Luana Copetti
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuanaCopetti&label=Profile%20views&color=0e75b6&style=flat" alt="ivas1ly" /> </p>
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=999&color=AD1FF7&width=560&height=120&lines=Ol%C3%A1%2C+Sejam+Bem-vindos(as)!;Meu+nome+%C3%A9+Luana+Copetti;GRADUANDA+EM...;CIENCIA+DA+COMPUTA%C3%87%C3%83O;)](https://git.io/typing-svg)
  <div align="center">
@@ -31,8 +32,5 @@
  
 </div>
   </div>
-<div align="center">
-<br><p align="centre"><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuanaCopetti}/count.svg" /></p>
-<br>
+
 
