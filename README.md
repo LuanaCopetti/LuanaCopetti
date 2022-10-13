@@ -1,4 +1,5 @@
 ## 👩🏻‍💻             I'm Luana Copetti
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuanaCopetti&label=Profile%20views&color=0e75b6&style=flat" alt="Luana" /> </p>
 <div align="center">
  
  <div align="center">
