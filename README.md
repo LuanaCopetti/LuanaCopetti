@@ -11,7 +11,7 @@
  
 <div align="center">
   <a href="https://github.com/LuanaCopetti">
-<img heigth="130em" src="https://github-readme-stats.vercel.app/api?username=LuanaCopetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img heigth="200px" src="https://github-readme-stats.vercel.app/api?username=LuanaCopetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaCopetti&layout=compact&langs_count=16&theme=dracula"/>                             
   
 </div>
