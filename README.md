@@ -11,7 +11,8 @@
 </p>
   <a href="https://github.com/LuanaCopetti">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LuanaCopetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  float="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaCopetti&theme=show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515"alt="Chandan's Public Github Stats">           
+  <img  float="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaCopetti&theme=show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515"alt="Chandan's Public Github Stats">  
+ <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaCopetti&layout=compact&langs_count=7&theme=dracula"/>
   
 </div>
  <div style="display: inline_block"><br> 
