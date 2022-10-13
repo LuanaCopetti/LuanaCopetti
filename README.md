@@ -1,11 +1,11 @@
 ## 👩🏻‍💻             I'm Luana Copetti
 
- 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=999&color=AD1FF7&width=560&height=120&lines=Ol%C3%A1%2C+Sejam+Bem-vindos(as)!;Meu+nome+%C3%A9+Luana+Copetti;GRADUANDA+EM...;CIENCIA+DA+COMPUTA%C3%87%C3%83O;)](https://git.io/typing-svg)
  <div align="center">
 
   ```
     • I love agriculture and technology🌱
-    • Computer science student at UTFPR 📚
+    • Computer science student at UTFPR and Integrated Agribusiness Management at PUCPR📚
   ```
  
 <div align="center">
@@ -35,5 +35,4 @@
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuanaCopetti}/count.svg" /></p>
 <br>
-</div>
-![ Gráfico de atividade do github LuanaCopetti ](https://activity-graph.herokuapp.com/graph?username=printsandman&bg_color=0d1117&color=FFFFFF&line=6441a5&point=ffa500&area=true&hide_border=true)
+
