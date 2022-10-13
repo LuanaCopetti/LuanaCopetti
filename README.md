@@ -36,3 +36,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuanaCopetti}/count.svg" /></p>
 <br>
 </div>
+![ Gráfico de atividade do github LuanaCopetti ](https://activity-graph.herokuapp.com/graph?username=printsandman&bg_color=0d1117&color=FFFFFF&line=6441a5&point=ffa500&area=true&hide_border=true)
