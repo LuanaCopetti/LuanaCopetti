@@ -1,6 +1,5 @@
 ## 👩🏻‍💻             I'm Luana Copetti
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuanaCopetti&label=Profile%20views&color=0e75b6&style=flat" alt="Luana" /> </p>
-<div align="center">
+
  
  <div align="center">
 
@@ -30,4 +29,10 @@
  
   ![Snake animation](https://github.com/LuanaCopetti/LuanaCopetti/blob/output/github-contribution-grid-snake.svg)
  
+</div>
+  </div>
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuanaCopetti}/count.svg" /></p>
+<br>
 </div>
